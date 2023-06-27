@@ -1,0 +1,27 @@
+body{
+    font: 1em sans-serif;
+    color: black;
+
+}
+p{ 
+    background-color: rgb(254, 255, 245);
+}
+.p2 {
+    margin-bottom: 60px;
+    padding: 20px;
+    text-indent: 20px;
+    line-height: 140%;
+ 
+}
+.p2{
+    font-weight: bold;
+    border: 2px solid rgb(119, 32, 32);
+    border-radius: 20px;
+    padding: 20px;
+    text-indent: 20px;
+    line-height: 140%;
+    margin-bottom: 60px;
+    text-transform: uppercase;
+    border-bottom: 1px dashed rgb(184, 90, 90);
+}
+
